@@ -1,1 +1,2 @@
+systemctl stop postgresql
 docker-compose down
