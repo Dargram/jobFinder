@@ -1,2 +1,4 @@
 django
 psycopg2-binary
+bs4
+playwright
